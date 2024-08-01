@@ -16,7 +16,7 @@ SO THAT I can organize my thoughts and keep track of tasks I need to complete
 
 ## Deployed Url
 
-[Github Pages]()
+[RENDER](https://note-taker-app-0qfx.onrender.com)
 
 ## Code Sources 
 
